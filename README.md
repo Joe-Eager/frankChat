@@ -1,6 +1,6 @@
-# [WIP] Frank Chat
+# Frank Chat
 
-Chat with frank
+Chat with snake
 
 ```
                            ____
